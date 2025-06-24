@@ -1,0 +1,16 @@
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\bin\Debug\net9.0-windows\CommonWealth.exe
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\bin\Debug\net9.0-windows\CommonWealth.deps.json
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\bin\Debug\net9.0-windows\CommonWealth.runtimeconfig.json
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\bin\Debug\net9.0-windows\CommonWealth.dll
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\bin\Debug\net9.0-windows\CommonWealth.pdb
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.Form1.resources
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.csproj.GenerateResource.cache
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.AssemblyInfoInputs.cache
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.AssemblyInfo.cs
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.csproj.CoreCompileInputs.cache
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.dll
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\refint\CommonWealth.dll
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.pdb
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\CommonWealth.genruntimeconfig.cache
+C:\Users\TAFARI\OneDrive\Desktop\C#\CommonWealth\obj\Debug\net9.0-windows\ref\CommonWealth.dll

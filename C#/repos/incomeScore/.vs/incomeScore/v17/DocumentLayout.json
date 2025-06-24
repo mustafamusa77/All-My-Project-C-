@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|c:\\users\\mustafa\\source\\repos\\incomescore\\incomescore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|solutionrelative:incomescore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|c:\\users\\mustafa\\source\\repos\\incomescore\\incomescore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|solutionrelative:incomescore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|c:\\users\\mustafa\\source\\repos\\incomescore\\incomescore\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFED54C-6F77-4CFF-A90C-E0F6E162D7D8}|incomeScore\\incomeScore.csproj|solutionrelative:incomescore\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "incomeScore\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.Designer.cs",
+              "RelativeToolTip": "incomeScore\\Form1.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAArwGsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:02:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.cs",
+              "RelativeDocumentMoniker": "incomeScore\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.cs",
+              "RelativeToolTip": "incomeScore\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:02:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.cs",
+              "RelativeDocumentMoniker": "incomeScore\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\incomeScore\\incomeScore\\Form1.cs [Design]",
+              "RelativeToolTip": "incomeScore\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:58:29.081Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\bin\Debug\net8.0-windows\evenAndOdd.exe
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\bin\Debug\net8.0-windows\evenAndOdd.deps.json
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\bin\Debug\net8.0-windows\evenAndOdd.runtimeconfig.json
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\bin\Debug\net8.0-windows\evenAndOdd.dll
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\bin\Debug\net8.0-windows\evenAndOdd.pdb
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.Form1.resources
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.dll
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\refint\evenAndOdd.dll
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.pdb
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\evenAndOdd.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\evenAndOdd\evenAndOdd\obj\Debug\net8.0-windows\ref\evenAndOdd.dll

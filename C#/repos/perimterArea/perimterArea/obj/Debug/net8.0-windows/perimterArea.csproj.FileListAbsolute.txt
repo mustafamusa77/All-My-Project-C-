@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\bin\Debug\net8.0-windows\perimterArea.exe
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\bin\Debug\net8.0-windows\perimterArea.deps.json
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\bin\Debug\net8.0-windows\perimterArea.runtimeconfig.json
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\bin\Debug\net8.0-windows\perimterArea.dll
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\bin\Debug\net8.0-windows\perimterArea.pdb
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.Form1.resources
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.dll
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\refint\perimterArea.dll
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.pdb
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\perimterArea.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\perimterArea\perimterArea\obj\Debug\net8.0-windows\ref\perimterArea.dll

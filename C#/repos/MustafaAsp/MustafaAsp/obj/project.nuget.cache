@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "agUEajuM83s=",
+  "success": false,
+  "projectFilePath": "M:\\C#\\repos\\MustafaAsp\\MustafaAsp\\MustafaAsp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.OpenApi (>= 9.0.5)' for 'net9.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

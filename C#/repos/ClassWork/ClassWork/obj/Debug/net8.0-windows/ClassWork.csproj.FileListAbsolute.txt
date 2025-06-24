@@ -1,0 +1,48 @@
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.exe
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.deps.json
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.runtimeconfig.json
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.dll
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.pdb
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.Form1.resources
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.GenerateResource.cache
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfo.cs
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.dll
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\refint\ClassWork.dll
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.pdb
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.genruntimeconfig.cache
+C:\Users\Your Dad\source\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ref\ClassWork.dll
+C:\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.exe
+C:\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.deps.json
+C:\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.runtimeconfig.json
+C:\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.dll
+C:\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.pdb
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.Form1.resources
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.GenerateResource.cache
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfoInputs.cache
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfo.cs
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.CoreCompileInputs.cache
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.dll
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\refint\ClassWork.dll
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.pdb
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.genruntimeconfig.cache
+C:\ClassWork\ClassWork\obj\Debug\net8.0-windows\ref\ClassWork.dll
+M:\C#\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.exe
+M:\C#\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.deps.json
+M:\C#\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.runtimeconfig.json
+M:\C#\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.dll
+M:\C#\repos\ClassWork\ClassWork\bin\Debug\net8.0-windows\ClassWork.pdb
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.Form1.resources
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.GenerateResource.cache
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfoInputs.cache
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.AssemblyInfo.cs
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.csproj.CoreCompileInputs.cache
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.dll
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\refint\ClassWork.dll
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.pdb
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ClassWork.genruntimeconfig.cache
+M:\C#\repos\ClassWork\ClassWork\obj\Debug\net8.0-windows\ref\ClassWork.dll

@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\bin\Debug\net8.0-windows\incomeScore.exe
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\bin\Debug\net8.0-windows\incomeScore.deps.json
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\bin\Debug\net8.0-windows\incomeScore.runtimeconfig.json
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\bin\Debug\net8.0-windows\incomeScore.dll
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\bin\Debug\net8.0-windows\incomeScore.pdb
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.Form1.resources
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.dll
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\refint\incomeScore.dll
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.pdb
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\incomeScore.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\incomeScore\incomeScore\obj\Debug\net8.0-windows\ref\incomeScore.dll

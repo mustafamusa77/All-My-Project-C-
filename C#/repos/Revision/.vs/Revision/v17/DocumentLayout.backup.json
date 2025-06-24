@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#\\repos\\Revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB491C5-C509-4464-89BC-B42870704D14}|Revision\\Revision.csproj|m:\\c#\\repos\\revision\\revision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB491C5-C509-4464-89BC-B42870704D14}|Revision\\Revision.csproj|solutionrelative:revision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB491C5-C509-4464-89BC-B42870704D14}|Revision\\Revision.csproj|M:\\C#\\repos\\Revision\\revision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAB491C5-C509-4464-89BC-B42870704D14}|Revision\\Revision.csproj|solutionrelative:revision\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\C#\\repos\\Revision\\Revision\\Form1.cs",
+              "RelativeDocumentMoniker": "Revision\\Form1.cs",
+              "ToolTip": "M:\\C#\\repos\\Revision\\Revision\\Form1.cs",
+              "RelativeToolTip": "Revision\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:38:54.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\C#\\repos\\Revision\\Revision\\Form1.cs",
+              "RelativeDocumentMoniker": "Revision\\Form1.cs",
+              "ToolTip": "M:\\C#\\repos\\Revision\\Revision\\Form1.cs [Design]",
+              "RelativeToolTip": "Revision\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:17:30.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

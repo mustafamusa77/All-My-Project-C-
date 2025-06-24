@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\bin\Debug\net8.0-windows\calculateInfo.exe
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\bin\Debug\net8.0-windows\calculateInfo.deps.json
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\bin\Debug\net8.0-windows\calculateInfo.runtimeconfig.json
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\bin\Debug\net8.0-windows\calculateInfo.dll
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\bin\Debug\net8.0-windows\calculateInfo.pdb
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.Form1.resources
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.dll
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\refint\calculateInfo.dll
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.pdb
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\calculateInfo.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\calculateInfo\calculateInfo\obj\Debug\net8.0-windows\ref\calculateInfo.dll

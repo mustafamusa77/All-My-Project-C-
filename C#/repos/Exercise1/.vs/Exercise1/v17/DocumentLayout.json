@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\C#\\repos\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|m:\\c#\\repos\\exercise1\\exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|m:\\c#\\repos\\exercise1\\exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|m:\\c#\\repos\\exercise1\\exercise1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980C24A4-8FD1-42DA-B91A-19C5BBC0EE74}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Form1.Designer.cs",
+              "ToolTip": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.Designer.cs",
+              "RelativeToolTip": "Exercise1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:56:11.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Form1.cs",
+              "ToolTip": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.cs",
+              "RelativeToolTip": "Exercise1\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:56:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Form1.cs",
+              "ToolTip": "M:\\C#\\repos\\Exercise1\\Exercise1\\Form1.cs [Design]",
+              "RelativeToolTip": "Exercise1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:54:09.217Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

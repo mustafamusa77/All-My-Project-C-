@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|c:\\users\\mustafa\\source\\repos\\calculateinfo\\calculateinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|solutionrelative:calculateinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|c:\\users\\mustafa\\source\\repos\\calculateinfo\\calculateinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|solutionrelative:calculateinfo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|c:\\users\\mustafa\\source\\repos\\calculateinfo\\calculateinfo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F03995-A0B1-4700-97ED-7D02FE123346}|calculateInfo\\calculateInfo.csproj|solutionrelative:calculateinfo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "calculateInfo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.Designer.cs*",
+              "RelativeToolTip": "calculateInfo\\Form1.Designer.cs*",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAlwKYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:23:21.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.cs",
+              "RelativeDocumentMoniker": "calculateInfo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.cs*",
+              "RelativeToolTip": "calculateInfo\\Form1.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAlwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:39:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.cs",
+              "RelativeDocumentMoniker": "calculateInfo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\source\\repos\\calculateInfo\\calculateInfo\\Form1.cs [Design]*",
+              "RelativeToolTip": "calculateInfo\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:31:17.391Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

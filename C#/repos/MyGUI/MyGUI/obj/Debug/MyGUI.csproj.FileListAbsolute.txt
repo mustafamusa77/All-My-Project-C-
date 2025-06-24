@@ -1,0 +1,7 @@
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.csproj.AssemblyReference.cache
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.csproj.SuggestedBindingRedirects.cache
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.exe.config
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.Form1.resources
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.Properties.Resources.resources
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.csproj.GenerateResource.cache
+M:\C#\repos\MyGUI\MyGUI\obj\Debug\MyGUI.csproj.CoreCompileInputs.cache

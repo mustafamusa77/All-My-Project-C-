@@ -1,0 +1,51 @@
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\bin\Debug\net9.0-windows\QN3.exe
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\bin\Debug\net9.0-windows\QN3.deps.json
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\bin\Debug\net9.0-windows\QN3.runtimeconfig.json
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\bin\Debug\net9.0-windows\QN3.dll
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\bin\Debug\net9.0-windows\QN3.pdb
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form1.resources
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form2.resources
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfo.cs
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.dll
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\refint\QN3.dll
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.pdb
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\QN3.genruntimeconfig.cache
+C:\Users\HP\Desktop\all contents\ADVANCE C#\QN1\QN1\obj\Debug\net9.0-windows\ref\QN3.dll
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\bin\Debug\net9.0-windows\QN3.exe
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\bin\Debug\net9.0-windows\QN3.deps.json
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\bin\Debug\net9.0-windows\QN3.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\bin\Debug\net9.0-windows\QN3.dll
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\bin\Debug\net9.0-windows\QN3.pdb
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form1.resources
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form2.resources
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.dll
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\refint\QN3.dll
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.pdb
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\QN3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\QN1\QN1\QN1\obj\Debug\net9.0-windows\ref\QN3.dll
+M:\C#\repos\QN1\QN1\bin\Debug\net9.0-windows\QN3.exe
+M:\C#\repos\QN1\QN1\bin\Debug\net9.0-windows\QN3.deps.json
+M:\C#\repos\QN1\QN1\bin\Debug\net9.0-windows\QN3.runtimeconfig.json
+M:\C#\repos\QN1\QN1\bin\Debug\net9.0-windows\QN3.dll
+M:\C#\repos\QN1\QN1\bin\Debug\net9.0-windows\QN3.pdb
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form1.resources
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN1.Form2.resources
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.GenerateResource.cache
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfoInputs.cache
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.AssemblyInfo.cs
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.csproj.CoreCompileInputs.cache
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.dll
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\refint\QN3.dll
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.pdb
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\QN3.genruntimeconfig.cache
+M:\C#\repos\QN1\QN1\obj\Debug\net9.0-windows\ref\QN3.dll

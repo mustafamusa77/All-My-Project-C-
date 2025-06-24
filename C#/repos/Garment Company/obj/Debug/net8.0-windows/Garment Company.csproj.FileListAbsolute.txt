@@ -1,0 +1,32 @@
+C:\Users\hp\source\repos\Garment Company\bin\Debug\net8.0-windows\Garment Company.exe
+C:\Users\hp\source\repos\Garment Company\bin\Debug\net8.0-windows\Garment Company.deps.json
+C:\Users\hp\source\repos\Garment Company\bin\Debug\net8.0-windows\Garment Company.runtimeconfig.json
+C:\Users\hp\source\repos\Garment Company\bin\Debug\net8.0-windows\Garment Company.dll
+C:\Users\hp\source\repos\Garment Company\bin\Debug\net8.0-windows\Garment Company.pdb
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment_Company.Form1.resources
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.AssemblyInfo.cs
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.dll
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\refint\Garment Company.dll
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.pdb
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\Garment Company.genruntimeconfig.cache
+C:\Users\hp\source\repos\Garment Company\obj\Debug\net8.0-windows\ref\Garment Company.dll
+D:\Garment Company\bin\Debug\net8.0-windows\Garment Company.exe
+D:\Garment Company\bin\Debug\net8.0-windows\Garment Company.deps.json
+D:\Garment Company\bin\Debug\net8.0-windows\Garment Company.runtimeconfig.json
+D:\Garment Company\bin\Debug\net8.0-windows\Garment Company.dll
+D:\Garment Company\bin\Debug\net8.0-windows\Garment Company.pdb
+D:\Garment Company\obj\Debug\net8.0-windows\Garment_Company.Form1.resources
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.csproj.GenerateResource.cache
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.AssemblyInfoInputs.cache
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.AssemblyInfo.cs
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.csproj.CoreCompileInputs.cache
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.dll
+D:\Garment Company\obj\Debug\net8.0-windows\refint\Garment Company.dll
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.pdb
+D:\Garment Company\obj\Debug\net8.0-windows\Garment Company.genruntimeconfig.cache
+D:\Garment Company\obj\Debug\net8.0-windows\ref\Garment Company.dll

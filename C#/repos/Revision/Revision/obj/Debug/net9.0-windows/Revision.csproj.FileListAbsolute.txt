@@ -1,0 +1,32 @@
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\bin\Debug\net9.0-windows\Revision.exe
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\bin\Debug\net9.0-windows\Revision.deps.json
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\bin\Debug\net9.0-windows\Revision.runtimeconfig.json
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\bin\Debug\net9.0-windows\Revision.dll
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\bin\Debug\net9.0-windows\Revision.pdb
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.Form1.resources
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.csproj.GenerateResource.cache
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.AssemblyInfoInputs.cache
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.AssemblyInfo.cs
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.csproj.CoreCompileInputs.cache
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.dll
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\refint\Revision.dll
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.pdb
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\Revision.genruntimeconfig.cache
+C:\Users\Monica David\Desktop\C SHARP\database\Revision\Revision\obj\Debug\net9.0-windows\ref\Revision.dll
+M:\C#\repos\Revision\Revision\bin\Debug\net9.0-windows\Revision.exe
+M:\C#\repos\Revision\Revision\bin\Debug\net9.0-windows\Revision.deps.json
+M:\C#\repos\Revision\Revision\bin\Debug\net9.0-windows\Revision.runtimeconfig.json
+M:\C#\repos\Revision\Revision\bin\Debug\net9.0-windows\Revision.dll
+M:\C#\repos\Revision\Revision\bin\Debug\net9.0-windows\Revision.pdb
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.Form1.resources
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.csproj.GenerateResource.cache
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.AssemblyInfoInputs.cache
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.AssemblyInfo.cs
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.csproj.CoreCompileInputs.cache
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.dll
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\refint\Revision.dll
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.pdb
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\Revision.genruntimeconfig.cache
+M:\C#\repos\Revision\Revision\obj\Debug\net9.0-windows\ref\Revision.dll

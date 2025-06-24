@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\displayInform\displayInform\bin\Debug\net8.0-windows\displayInform.exe
+C:\Users\Mustafa\source\repos\displayInform\displayInform\bin\Debug\net8.0-windows\displayInform.deps.json
+C:\Users\Mustafa\source\repos\displayInform\displayInform\bin\Debug\net8.0-windows\displayInform.runtimeconfig.json
+C:\Users\Mustafa\source\repos\displayInform\displayInform\bin\Debug\net8.0-windows\displayInform.dll
+C:\Users\Mustafa\source\repos\displayInform\displayInform\bin\Debug\net8.0-windows\displayInform.pdb
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.Form1.resources
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.dll
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\refint\displayInform.dll
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.pdb
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\displayInform.genruntimeconfig.cache
+C:\Users\Mustafa\source\repos\displayInform\displayInform\obj\Debug\net8.0-windows\ref\displayInform.dll

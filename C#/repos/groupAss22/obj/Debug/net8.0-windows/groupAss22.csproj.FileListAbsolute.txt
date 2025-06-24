@@ -1,0 +1,16 @@
+C:\Users\Elias\source\repos\groupAss22\groupAss22\bin\Debug\net8.0-windows\groupAss22.exe
+C:\Users\Elias\source\repos\groupAss22\groupAss22\bin\Debug\net8.0-windows\groupAss22.deps.json
+C:\Users\Elias\source\repos\groupAss22\groupAss22\bin\Debug\net8.0-windows\groupAss22.runtimeconfig.json
+C:\Users\Elias\source\repos\groupAss22\groupAss22\bin\Debug\net8.0-windows\groupAss22.dll
+C:\Users\Elias\source\repos\groupAss22\groupAss22\bin\Debug\net8.0-windows\groupAss22.pdb
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.Form1.resources
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.AssemblyInfoInputs.cache
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.AssemblyInfo.cs
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.dll
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\refint\groupAss22.dll
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.pdb
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\groupAss22.genruntimeconfig.cache
+C:\Users\Elias\source\repos\groupAss22\groupAss22\obj\Debug\net8.0-windows\ref\groupAss22.dll
